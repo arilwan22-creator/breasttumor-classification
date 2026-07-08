@@ -102,8 +102,6 @@ except FileNotFoundError:
 st.markdown("""
 <div class="main-header">
     <h1>🩺 Breast Cancer Classification System</h1>
-    <p>Design and Implementation of a Machine Learning Model for Breast Tumour Classification</p>
-    <p style="font-size:0.8rem; opacity:0.7;">RILWAN AMINA SHEHU &nbsp;|&nbsp; African University of Science and Technology &nbsp;|&nbsp; Final Year Project 2026</p>
 </div>
 """, unsafe_allow_html=True)
 
